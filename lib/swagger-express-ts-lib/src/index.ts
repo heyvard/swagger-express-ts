@@ -31,3 +31,4 @@ export { IApiModelArgs, ApiModel } from './api-model.decorator';
 export { SwaggerDefinitionConstant } from './swagger-definition.constant';
 export { express, ISwaggerExpressOptions } from './express.configurator';
 export { build } from './swagger.builder';
+export { SwaggerService } from './swagger.service';
